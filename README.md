@@ -9,6 +9,5 @@
 - Send and receive functionality for cryptocurrencies on the blockchain using Solidity
 
 ## Check it Out
-<<>>
 
-<img width="715" alt="Screenshot 2022-02-14 at 6 29 13 PM" src="https://user-images.githubusercontent.com/84952189/153847202-cefcd6cf-2ba8-4ee9-90e9-607df8b8858e.png">
+<img width="1440" alt="Screenshot 2022-02-14 at 6 54 43 PM" src="https://user-images.githubusercontent.com/84952189/153850984-3934909a-122b-4196-893d-16662c88d2af.png">
